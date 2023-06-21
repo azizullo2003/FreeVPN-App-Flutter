@@ -26,7 +26,6 @@ class Vpn {
     countryLong = json['CountryLong'] ?? '';
     countryShort = json['CountryShort'] ?? '';
     numVpnSessions = json['NumVpnSessions'] ?? 0;
-
     openVPNConfigDataBase64 = json['OpenVPN_ConfigData_Base64'] ?? '';
   }
 

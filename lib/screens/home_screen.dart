@@ -8,7 +8,6 @@ import '../helpers/ad_helper.dart';
 import '../helpers/config.dart';
 import '../helpers/pref.dart';
 import '../main.dart';
-
 import '../models/vpn_status.dart';
 import '../services/vpn_engine.dart';
 import '../widgets/count_down_timer.dart';

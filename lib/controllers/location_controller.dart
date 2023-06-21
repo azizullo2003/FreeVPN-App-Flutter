@@ -1,5 +1,4 @@
 import 'package:get/get.dart';
-
 import '../apis/apis.dart';
 import '../helpers/pref.dart';
 import '../models/vpn.dart';
@@ -14,6 +13,5 @@ class LocationController extends GetxController {
     vpnList.clear();
     vpnList = await APIs.getVPNServers();
     isLoading.value = false;
-    print(await APIs.getVPNServers());
   }
 }

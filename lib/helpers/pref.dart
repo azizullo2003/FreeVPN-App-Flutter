@@ -1,7 +1,5 @@
 import 'dart:convert';
-
 import 'package:hive_flutter/hive_flutter.dart';
-
 import '../models/vpn.dart';
 
 class Pref {

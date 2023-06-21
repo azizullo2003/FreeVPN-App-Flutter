@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.harshRajpurohit.freeVpn">
+    package="com.azizullo.freeVpn">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -13,14 +13,14 @@
     
     <application
         android:name="${applicationName}"
-        android:label="Free VPN"
+        android:label="Fast VPN"
         android:icon="@mipmap/ic_launcher"
         tools:ignore="AllowBackup">
         
         <!-- For Ads -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713"/>
+            android:value="ca-app-pub-3157317963316793~1503854324"/>
         
         <activity
             android:name=".MainActivity"

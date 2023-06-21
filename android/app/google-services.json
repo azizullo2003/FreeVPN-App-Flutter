@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "480415667223",
-    "project_id": "freevpn-flutter",
-    "storage_bucket": "freevpn-flutter.appspot.com"
+    "project_number": "532294858045",
+    "project_id": "vpn-app-22bef",
+    "storage_bucket": "vpn-app-22bef.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:480415667223:android:6a5177701d3e4bb2e63852",
+        "mobilesdk_app_id": "1:532294858045:android:900dfcfd8c53d5d82e0154",
         "android_client_info": {
-          "package_name": "com.harshRajpurohit.freeVpn"
+          "package_name": "com.azizullo.freeVpn"
         }
       },
       "oauth_client": [
         {
-          "client_id": "480415667223-cp82h16vl2ms0u4bcs40qq273ibfhp79.apps.googleusercontent.com",
+          "client_id": "532294858045-s2rnb99jger9tk17ccrnjjbhu5lcko00.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB278a0ik31BTSL3w2tgMgSgQQJj7avakM"
+          "current_key": "AIzaSyDnQ6ok74k7-YUfhMURcX9YAAX_64uoyl0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "480415667223-cp82h16vl2ms0u4bcs40qq273ibfhp79.apps.googleusercontent.com",
+              "client_id": "532294858045-s2rnb99jger9tk17ccrnjjbhu5lcko00.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

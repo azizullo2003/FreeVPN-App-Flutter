@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import '../apis/apis.dart';
 import '../main.dart';
 import '../models/ip_details.dart';
